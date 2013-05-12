@@ -1,5 +1,5 @@
 {
-    "name": "maba-oauth-commerce/oauth-commerce-common-bundle",
+    "name": "maba-oauth-commerce/bundle-common",
     "description": "Common bundle for OAuth Commerce",
     "license": "MIT",
     "authors": [
